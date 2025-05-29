@@ -2,7 +2,7 @@
 
 # 🙋‍♂️ About me
 
-I'm from Greece, currently in the CEST (Central European Summer Time) time zone, as i live in Lund, Sweden 🌎. I'm a huge fan of Java, C#, app development, and writing code 💻. When I'm not debugging errors or making magic, I can be found playing semi-professional football ⚽, going for a run 🏃‍♂️, reaading a good manga 📖, lifting weights 🏋️, and all around trying to be as active as possible 💪.
+I'm from Greece, currently in the CEST (Central European Summer Time) time zone, as I live in Lund, Sweden 🌎. I'm a huge fan of Java, C#, app development, and writing code 💻. When I'm not debugging errors or making magic, I can be found playing semi-professional football ⚽, going for a run 🏃‍♂️, reading a good manga 📖, lifting weights 🏋️, and all around trying to be as active as possible 💪.
 
 
 # 🔭 I'm currently working on
